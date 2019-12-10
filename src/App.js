@@ -26,12 +26,6 @@ function App() {
       title:
         "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_480,h_384/cities/e8fnw35p6zgusq218foj.webp",
       content: "Japan"
-    },
-    {
-      id: 5,
-      title:
-        "https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_480,h_384/cities/e8fnw35p6zgusq218foj.webp",
-      content: "Japan"
     }
   ];
 
