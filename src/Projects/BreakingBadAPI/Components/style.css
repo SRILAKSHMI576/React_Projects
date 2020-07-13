@@ -1,0 +1,16 @@
+.header img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+.cards{
+	display: grid;
+	grid-template-columns: repeat(4, fr);
+	gap: 1rem;
+}
+
+.input-field{
+	width: 15%;
+}
