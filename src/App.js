@@ -1,10 +1,10 @@
 import React from "react";
-import BreakingBadApiMain from "./Projects/BreakingBadAPI/Components/BreakingBadApiMain";
+import Main from "../src/BreakingBadApi/Main"
 
 function App() {
   return (
     <div>
-        <BreakingBadApiMain />
+        <Main />
     </div>
   );
 }
